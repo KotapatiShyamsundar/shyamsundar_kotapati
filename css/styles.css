@@ -1,0 +1,190 @@
+.First {
+    background-image: url(https://i2.wp.com/www.smartertravel.com/uploads/2020/03/ST_ZoomBackground_Beach03.jpg?ssl=1);
+    height: 700px;
+    background-size: 100% 100%;
+    padding-top: 50px;
+    text-align: center;
+    color: azure;
+    font-size: 300px;
+    font-family: cursive;
+}
+
+.photo {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.total {
+    background: #3ee746;
+    background: -webkit-linear-gradient(to left, #42f460, #373B44);
+    background: linear-gradient(to left, #4286f4, #75ec57);
+    color: rgb(245, 235, 235);
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: cursive;
+}
+
+div.total {
+    line-height: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.about {
+    height: auto;
+}
+
+.item active {
+    width: 100%;
+}
+
+.item {
+    width: 100%;
+}
+
+.images {
+    height: auto;
+    padding-left: 80px;
+}
+
+.contacts {
+    height: auto;
+    text-align: center;
+}
+
+.row1 {
+    display: flex;
+    padding: 20px;
+}
+
+.column1 {
+    flex: 33.33%;
+    padding: 30px;
+}
+
+.row2 {
+    display: flex;
+}
+
+.column2 {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.row3 {
+    display: flex;
+}
+
+.column3 {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-instagram {
+    background: #8a3ab9;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-github {
+    background: #000;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-whatsapp {
+    background: #25d366;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-mobile {
+    background: #25d366;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.fa-envelope {
+    background: #EA4335;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+
+/*
+Forces image to be 100% width and not max width of 100%
+*/
+
+.carousel-item img {
+    flex-shrink: 1;
+}
+
+.row5 {
+    display: flex;
+}
+
+.column5 {
+    flex: 33.33%;
+    padding: 10px;
+}
+
+.skills {
+    padding-left: 90px;
+}
+
+.education {
+    padding-left: 130px;
+    font-size: 20px;
+    border-style: inset;
+}
+
+th {
+    color: #410664;
+    text-decoration: underline;
+}
